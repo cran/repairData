@@ -1,0 +1,16 @@
+ed309ddd47655bb24ef3c5ce63319f2c *DESCRIPTION
+535b462a29cc037493681afae458e15c *LICENSE
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+63f2b9d96c2eb2632a00932d61b8806c *NEWS.md
+801ad476f834d3db2255d755315626b4 *R/data.R
+905f5b580abbd535e10360e35615ce36 *README.md
+ee26c8e3b8b227061d6dffa39265dd20 *data/batteries.rda
+e4901133a2e2878f291ab22084e215c9 *data/mobiles.rda
+a3f63a4251dc7a0a26c1aaf09555cb5e *data/printers.rda
+ee62b17dfc3613669653e5829104825d *data/repairs.rda
+df9e43f9cc2b25dc0a13e1fb75730d77 *data/tablets.rda
+d5f4d2c96de3b97b8234ad1b6126e98b *man/batteries.Rd
+a3f04d199a6a022e3edef39b3a5aebc2 *man/mobiles.Rd
+a3c473d5ca52e7bea4ef6ad4da9bb88e *man/printers.Rd
+d6a862d6f695e2ad89bc91668990a510 *man/repairs.Rd
+5e6b45e09eb18c1498c88f334d4c75b5 *man/tablets.Rd
